@@ -1,0 +1,8 @@
+{
+  "s1": {"seconds": 5, "frames": 150},
+  "s2": {"seconds": 5, "frames": 150},
+  "s3": {"seconds": 8, "frames": 240},
+  "s4": {"seconds": 15, "frames": 450},
+  "s5": {"seconds": 6, "frames": 180},
+  "s6": {"seconds": 6, "frames": 180}
+}
